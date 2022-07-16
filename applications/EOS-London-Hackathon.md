@@ -21,24 +21,25 @@
 
 ## Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** myemail@mycompany.com
-- **Website:** https://yourwebsite.com
-
+- **Contact Name:Melvin Pearce
+- **Contact Email:enquiries@eoslondon.io
+- **Website:https://eoslondon.io
 > ⚠️ *The combination of your GitHub account submitting the application and the EOS account address above will be your unique identifier during the program. Please keep them safe.*
 
-## Project Overview
+We explored the concept to utilize multi-city hackathons as a way to attract developers into the EOS ecosystem. The hackathon can be designed to expose participants to the EOS environment to build awareness and competency of the substrate. The key target audiences will include Junior, Mid-level developers.
 
-> If this is an application for a follow-up grant (the continuation of an earlier, successful ENF grant), please provide name and/or pull request of said grant on the first line of this section.
+We propose 3 hackathons to be hosted in the major tech regions in the US, Europe, and Asia. This would cover most of the tech hubs globally, and extend the reach into the developer communities. 
+
+
 
 ### Overview
 
 > Please provide the following:
 
-- **Name:** If the name of your project is not descriptive, a tag line (one sentence summary).
-- **Brief Description:** A brief description of your project.
-- **Relationship to EOSIO:** An indication of how your project relates to / integrates into EOSIO.
-- **Reason for Interest:** An indication of why your team is interested in creating this project.
+- EOS-London-Hackathon
+- multi-city EOS.io hackathons
+- EOS.io based hackathons
+- Utilize multi-city hackathons as a way to attract developers into the EOS ecosystem. The hackathon can be designed to expose participants to the EOS environment to build awareness and competency of the substrate. The key target audiences will include Junior, Mid-level developers.
 
 ### Project Details
 
